@@ -1,0 +1,80 @@
+{
+  "generated_at": "2026-02-20T10:08:39.271487+00:00",
+  "engineers": [
+    {
+      "rank": 1,
+      "username": "pauldambra",
+      "avatar_url": "https://avatars.githubusercontent.com/u/984817?v=4",
+      "impact_score": 0.8761,
+      "quality_score": 0.988,
+      "review_score": 0.7641,
+      "prs_merged": 185,
+      "avg_pr_size": 338.8,
+      "revert_rate": 0.016,
+      "reviews_given": 505,
+      "avg_review_comment_length": 160.4,
+      "avg_review_turnaround_hrs": 34.5,
+      "summary": "pauldambra is PostHog's most complete engineer — shipping focused PRs consistently while staying the team's most active reviewer with 505 reviews. A true force multiplier."
+    },
+    {
+      "rank": 2,
+      "username": "rafaeelaudibert",
+      "avatar_url": "https://avatars.githubusercontent.com/u/32079912?v=4",
+      "impact_score": 0.8236,
+      "quality_score": 0.9381,
+      "review_score": 0.7091,
+      "prs_merged": 164,
+      "avg_pr_size": 909.9,
+      "revert_rate": 0.0,
+      "reviews_given": 479,
+      "avg_review_comment_length": 133.9,
+      "avg_review_turnaround_hrs": 46.1,
+      "summary": "rafaeelaudibert shipped 164 PRs with zero reverts, showing exceptional stability. Their larger PRs suggest ownership of complex, high-stakes features."
+    },
+    {
+      "rank": 3,
+      "username": "andrewm4894",
+      "avatar_url": "https://avatars.githubusercontent.com/u/2178292?v=4",
+      "impact_score": 0.7504,
+      "quality_score": 0.9524,
+      "review_score": 0.5485,
+      "prs_merged": 163,
+      "avg_pr_size": 239.5,
+      "revert_rate": 0.0,
+      "reviews_given": 282,
+      "avg_review_comment_length": 214.8,
+      "avg_review_turnaround_hrs": 72.1,
+      "summary": "andrewm4894 combines high output with the team's most thoughtful reviews — averaging 215 chars per comment, showing they don't just approve, they engage."
+    },
+    {
+      "rank": 4,
+      "username": "adboio",
+      "avatar_url": "https://avatars.githubusercontent.com/u/23323033?v=4",
+      "impact_score": 0.7276,
+      "quality_score": 0.9351,
+      "review_score": 0.52,
+      "prs_merged": 155,
+      "avg_pr_size": 267.7,
+      "revert_rate": 0.0,
+      "reviews_given": 231,
+      "avg_review_comment_length": 162.6,
+      "avg_review_turnaround_hrs": 50.3,
+      "summary": "adboio is a reliable, consistent contributor — 155 PRs merged with zero reverts and steady review participation across the team."
+    },
+    {
+      "rank": 5,
+      "username": "vdekrijger",
+      "avatar_url": "https://avatars.githubusercontent.com/u/66254686?v=4",
+      "impact_score": 0.7041,
+      "quality_score": 0.7211,
+      "review_score": 0.6872,
+      "prs_merged": 56,
+      "avg_pr_size": 297.2,
+      "revert_rate": 0.0,
+      "reviews_given": 197,
+      "avg_review_comment_length": 493.7,
+      "avg_review_turnaround_hrs": 37.4,
+      "summary": "vdekrijger stands out for review quality over quantity — averaging 494 chars per comment, the highest on the team. Every review they leave is a detailed, substantive one."
+    }
+  ]
+}
